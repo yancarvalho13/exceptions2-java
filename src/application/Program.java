@@ -42,6 +42,7 @@ public class Program {
 				System.out.println(e.getMessage());
 			}
 		} while (!invalidInput);
+		
 		scan.close();
 	}
 
